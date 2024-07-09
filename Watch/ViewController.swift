@@ -12,8 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("commes to moviez branch")
-        print("comes to main branch")
-        // Do any additional setup after loading the view.
+        print("comes to additional after loading")
+        // Do any  setup after loading the view.
     }
 
 
