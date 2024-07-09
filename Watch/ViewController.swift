@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("commes to moviez branch")
-        print("hi hoo joo")
+        print("comes to moviez branch")
         // Do any additional setup after loading the view.
     }
 
